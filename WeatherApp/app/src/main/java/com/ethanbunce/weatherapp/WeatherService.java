@@ -27,7 +27,7 @@ public class WeatherService {
 
     private static final String DATE_INPUT_FORMAT = "yyyy-MM-dd HH:mm:ss";
     private static final String TAG = "WeatherService";
-    public static final String QUERY_FOR_WEATHER = "https://api.openweathermap.org/data/2.5/forecast?lat=%s&lon=%s&appid=a23f9d823dc8ed04d5720e4b0d3011b7&units=imperial";
+    public static final String QUERY_FOR_WEATHER = "REDACTED";
 
     private static String zip;
     private static String name;
