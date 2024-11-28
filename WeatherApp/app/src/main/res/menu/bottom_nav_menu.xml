@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu_locations"
+        android:title="Locations"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        />
+
+    <item
+        android:id="@+id/nav_menu_forecast"
+        android:title="Forecast"
+        android:icon="@drawable/ic_baseline_cloud_24"
+        />
+
+    <item
+        android:id="@+id/nav_menu_about"
+        android:title="About"
+        android:icon="@drawable/ic_baseline_help_24"
+        />
+</menu>
